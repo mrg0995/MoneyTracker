@@ -18,7 +18,7 @@ Una aplicación web sencilla y potente para el control de finanzas personales, d
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/money-tracker.git](https://github.com/TU_USUARIO/money-tracker.git)
+   git clone [https://github.com/mrg0995/money-tracker.git](https://github.com/mrg0995/money-tracker.git)
 
 2. Instalar las dependencias:
    ```bash
