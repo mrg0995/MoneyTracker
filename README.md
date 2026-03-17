@@ -10,7 +10,7 @@ Una aplicación web sencilla y potente para el control de finanzas personales, d
 - 🗑️ **Gestión total**: Posibilidad de añadir y eliminar registros específicos.
 
 ## 🛠️ Tecnologías utilizadas
-- Python 3.x
+- Python 3.14
 - Streamlit (Interfaz Web)
 - Pandas (Procesamiento de datos)
 
