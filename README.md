@@ -1,29 +1,34 @@
-# 💸 MoneyTracker - Streamlit App
+# 💸 MoneyTracker - Streamlit Finance App
 
-Una aplicación web sencilla y potente para el control de finanzas personales, desarrollada con **Python**, **Streamlit** y **Pandas**.
+A simple yet powerful web application for personal finance control, developed with **Python**, **Streamlit**, and **Pandas**.
 
-## ✨ Características
-- 📊 **Dashboard en tiempo real**: Visualiza ingresos, gastos y balance neto.
-- 📂 **Persistencia de datos**: Los movimientos se guardan localmente en un archivo `finanzas.json`.
-- 📈 **Gráficos dinámicos**: Análisis visual de gastos por categorías.
-- 🎨 **Interfaz intuitiva**: Código de colores para identificar flujos de caja y formato de fecha europeo.
-- 🗑️ **Gestión total**: Posibilidad de añadir y eliminar registros específicos.
+## ✨ Features
+- 📊 **Real-time Dashboard**: Instantly visualize total income, expenses, and net balance.
+- 📂 **Data Persistence**: All transactions are saved locally in a `finances.json` file. Your data stays with you.
+- 📈 **Dynamic Charts**: Visual analysis of spending habits categorized by type (Food, Housing, Leisure, etc.).
+- 🎨 **Intuitive UI**: Color-coded cash flow identification (Green for Income, Red for Expenses) and European date formatting.
+- 🗑️ **Full Transaction Management**: Easily add new records or delete specific entries from your history.
 
-## 🛠️ Tecnologías utilizadas
-- Python 3.14
-- Streamlit (Interfaz Web)
-- Pandas (Procesamiento de datos)
+## 🛠️ Technologies Used
+- **Python 3.10+**
+- **Streamlit** (Web Interface)
+- **Pandas** (Data processing & Analytics)
 
-## 🚀 Instalación y Uso
+## 🚀 Installation and Usage
 
-1. Clonar el repositorio:
+1. **Clone the repository:**
    ```bash
    git clone [https://github.com/mrg0995/money-tracker.git](https://github.com/mrg0995/money-tracker.git)
 
-2. Instalar las dependencias:
+2. Install dependencies:
    ```bash
    pip install streamlit pandas
   
-3. Ejecutar la aplicación:
+3. Run the application:
    ```bash
    streamlit run money_tracker.py
+
+✒️ Author
+Mario Ramírez - mrg0995
+
+"Smart tracking is the first step toward financial freedom." 📈
